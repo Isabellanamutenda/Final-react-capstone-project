@@ -5,8 +5,6 @@ import App from '../App';
 describe('App', () => {
   it('renders page correctly', () => {
     render(<App />);
-    // const tree = render(<App />);
-    
   });
 
   it('it loads "Crypto Currencies" on first render', async () => {

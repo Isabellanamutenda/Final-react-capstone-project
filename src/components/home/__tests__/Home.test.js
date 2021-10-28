@@ -4,8 +4,6 @@ import Home from '../Home';
 
 describe('Home', () => {
   it('renders page correctly', () => {
-    const tree = render(<Home />);
-    // expect(tree).toMatchSnapshot();
   });
 
   it('loads "Crypto Currencies" on first render', async () => {
