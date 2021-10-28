@@ -36,8 +36,9 @@ This project uses [Coinstats API](https://documenter.getpostman.com/view/5734027
     git clone https://github.com/Isabellanamutenda/Final-react-capstone-project.git
 
 - Navigate to crypto-stats folder/directory
-          cd Final-react-capstone-project
-    ```cd Final-react-capstone-project
+
+    ```cd 
+    cd Final-react-capstone-project
     ```
 
 - On the comandline, at the project's root, run ```npm install``` to install app dependencies
