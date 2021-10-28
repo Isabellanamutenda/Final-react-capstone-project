@@ -20,7 +20,7 @@ This project uses [Coinstats API](https://documenter.getpostman.com/view/5734027
 
 ### [Live Demo - Netlify](https://crypto-statistics.netlify.app/)
 
-### [Project Presentation - YouTube](https://youtu.be/NV_9kst9jqk)
+
 
 ## Built With
 
@@ -36,7 +36,7 @@ This project uses [Coinstats API](https://documenter.getpostman.com/view/5734027
     git clone https://github.com/Isabellanamutenda/Final-react-capstone-project.git
 
 - Navigate to crypto-stats folder/directory
-
+          cd Final-react-capstone-project
     ```cd Final-react-capstone-project
     ```
 
