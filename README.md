@@ -30,16 +30,14 @@ This project uses [Coinstats API](https://documenter.getpostman.com/view/5734027
 
 ## Getting Started
 
-- Clone this repo <https://github.com/Lameck1/crypto-stats>
+- Clone this repo <https://github.com/Isabellanamutenda/Final-react-capstone-project.git>
 
-    ```bash
-    git clone https://github.com/Lameck1/crypto-stats.git
-    ```
+    ```cd Desktop
+    git clone https://github.com/Isabellanamutenda/Final-react-capstone-project.git
 
 - Navigate to crypto-stats folder/directory
 
-    ```bash
-    cd crypto-stats
+    ```cd Final-react-capstone-project
     ```
 
 - On the comandline, at the project's root, run ```npm install``` to install app dependencies
@@ -70,7 +68,7 @@ Take a look at the [DOCUMENTATION](https://documenter.getpostman.com/view/573402
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Lameck1/crypto-stats/issues)
+Feel free to check the [issues page](https://github.com/Isabellanamutenda/Final-react-capstone-project/issues)
 
   1. Fork the Project
   2. Create your Feature Branch (`git checkout -b feature/newFeature`)
