@@ -19,7 +19,7 @@ This project uses [Coinstats API](https://documenter.getpostman.com/view/5734027
 ![screenshot](./src/assets/images/screenshot.png)
 
 ### [Live Demo - Netlify](https://crypto-statistics.netlify.app/)
-
+### [Recorded video](https://www.loom.com/share/e4937aed936d42668be7d2251bd3f80c)
 
 
 ## Built With
